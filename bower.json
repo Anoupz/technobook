@@ -1,0 +1,23 @@
+{
+  "name": "nodeAngularGulp",
+  "version": "0.0.0",
+  "authors": [
+    "Anoupz <anoupz@gmail.com>"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "angular": "~1.3.13",
+    "angular-animate": "~1.3.13",
+    "animate.css": "~3.2.0",
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.3.0"
+  }
+}
